@@ -1,0 +1,23 @@
+{
+  "name": "npm-hw-per-start",
+  "version": "1.0.0",
+  "description": "A test to create a npm package boilerplate",
+  "keywords": [
+    "template"
+  ],
+  "homepage": "https://github.com/jeperico/npm-hw-per-start#readme",
+  "bugs": {
+    "url": "https://github.com/jeperico/npm-hw-per-start/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeperico/npm-hw-per-start.git"
+  },
+  "license": "ISC",
+  "author": "perico",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
